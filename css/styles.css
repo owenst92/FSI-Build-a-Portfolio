@@ -1,0 +1,17 @@
+body {
+    background-color: aliceblue;
+    font-style: arial;
+}
+
+image {
+    border-radius: 2px;
+    border-color: bisque;
+}
+
+p {
+    text-align: center;
+}
+
+cursor {
+    font-style: oblique;
+}
